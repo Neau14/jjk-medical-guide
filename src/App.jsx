@@ -23,6 +23,7 @@ function App() {
       steps: [
         { title: 'Préparation', description: 'Aller systématiquement chercher le matériel nécessaire dans le placard de la salle d\'opération avant de commencer l\'intervention.' },
         { title: 'Prise de constantes critiques', description: 'Surveillance rapprochée : risque de choc hémorragique. Mesurer la stabilité de l\'énergie occulte du patient.' },
+        { title: 'Anesthésie (si nécessaire)', description: 'Administrer une anesthésie locale ou générale selon la gravité de la blessure et l\'état du patient avant de procéder aux soins chirurgicaux.' },
         { title: 'Sutures et Strips', description: 'Rapprocher les berges de la plaie. Utiliser des points de suture pour les tissus profonds, ou des strips pour refermer proprement la couche supérieure.' },
         { title: 'Désinfection profonde', description: 'Nettoyage chirurgical. Il est impératif d\'évincer tout tissu nécrosé ou corrompu par l\'énergie d\'un fléau avant de refermer.' },
         { title: 'Bandages lourds', description: 'Application de pansements compressifs si le saignement persiste. Immobilisation complète de la zone touchée.' }
