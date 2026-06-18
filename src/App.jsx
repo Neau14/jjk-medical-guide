@@ -57,7 +57,7 @@ function App() {
       description: 'Surcharge, épuisement ou dérèglement grave du flux d\'énergie occulte (ex: usage excessif du Rayonnement Noir ou Extension du Territoire ratée).',
       steps: [
         { title: 'Préparation', description: 'Aller systématiquement chercher le matériel nécessaire dans le placard de la salle d\'opération avant de commencer l\'intervention.' },
-        { title: 'Isolement total', description: 'Placer le patient dans une chambre d\'isolement scellée par des talismans pour prévenir toute explosion d\'énergie incontrôlée.' },
+        { title: 'Isolement total', description: 'Placer un talisman sur le patient pour sceller son énergie occulte.' },
         { title: 'Sédation et apaisement', description: 'Forcer le repos du corps par sédation médicale pour ralentir le métabolisme et forcer le noyau occulte à se calmer.' },
         { title: 'Alignement des flux', description: 'Un médecin expérimenté doit perfuser doucement sa propre énergie apaisante pour aider le noyau du patient à se recalibrer.' }
       ]
