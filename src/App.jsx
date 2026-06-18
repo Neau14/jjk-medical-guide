@@ -35,7 +35,7 @@ function App() {
       steps: [
         { title: 'Préparation', description: 'Aller systématiquement chercher le matériel nécessaire dans le placard de la salle d\'opération avant de commencer l\'intervention.' },
         { title: 'Sécurisation immédiate', description: 'Pose immédiate d\'un garrot de fortune ou médicalisé au-dessus de la section pour stopper l\'hémorragie massive.' },
-        { title: 'Préservation du membre', description: 'Si possible, récupérer le membre sectionné. Le placer au froid (sans contact direct avec la glace) et tenter de stabiliser son flux occulte pour éviter une nécrose astrale.' },
+        { title: 'Préservation du membre', description: 'Si possible, récupérer le membre sectionné. Le placer au froid (sans contact direct avec la glace) et tenter de stabiliser son flux occulte pour éviter une nécrose.' },
         { title: 'Traitement de la souche', description: 'Nettoyage rapide, pansement compressif très épais. Gestion de la douleur extrême via antalgiques ou sédation occulte.' },
         { title: 'Régénération (Inversion de Sort)', description: 'Si le médecin maîtrise l\'Inversion de Sort (Sort d\'Inversion), application directe sur la souche et le membre pour reconnecter les nerfs et le réseau occulte. Doit être fait dans un délai très court.' }
       ]
